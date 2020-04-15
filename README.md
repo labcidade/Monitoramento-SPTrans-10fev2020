@@ -26,8 +26,7 @@ Foi escrito um programa de monitoramento da posição dos ônibus da SPTrans a p
 
 ## Finalidade
 Publicação de post em blog do LabCidade:
-
-[Alagamentos, deslizamentos e zonas inteiras ilhadas: o modelo de urbanização por asfalto precisa ser revisto](http://www.labcidade.fau.usp.br/alagamentos-deslizamentos-e-zonas-inteiras-ilhadas-o-modelo-de-urbanizacao-por-asfalto-precisa-ser-revisto/)
+- [Alagamentos, deslizamentos e zonas inteiras ilhadas: o modelo de urbanização por asfalto precisa ser revisto](http://www.labcidade.fau.usp.br/alagamentos-deslizamentos-e-zonas-inteiras-ilhadas-o-modelo-de-urbanizacao-por-asfalto-precisa-ser-revisto/)
 
 ## Dados externos
 - [API Olho Vivo SPTrans](http://www.sptrans.com.br/desenvolvedores/)
