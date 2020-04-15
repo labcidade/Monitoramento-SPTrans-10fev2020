@@ -1,4 +1,4 @@
-MONITORAMENTO SPTRANS 10FEV2020
+Monitoramento SPTrans 10/fev/2020
 ============
 *Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 
