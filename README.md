@@ -3,11 +3,8 @@ MONITORAMENTO SPTRANS 10FEV2020
 *Dados e documentação produzidos pelo Laboratório Espaço Público e Direito à Cidade da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo - [LabCidade FAUUSP](http://www.labcidade.fau.usp.br/)*
 
 **Equipe:** Pedro Mendonça
-
 **Financiamento:** FUSP/Fundação Ford
-
 **Data:** 01/02/2020, atualização não prevista
-
 **Licença de compartilhamento:** CC Atribuição (CC BY 3.0 BR) (ver arquivo _LICENÇA.txt)
 
 ## Conteúdo
